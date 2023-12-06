@@ -1,1 +1,12 @@
 # java_project
+![2](https://github.com/khm1754/java_project/assets/94165276/320a4075-9cdf-4ff7-a986-5326d5e395ef)
+![1](https://github.com/khm1754/java_project/assets/94165276/0913c334-a505-408a-85a5-accb91d49ff2)
+![겜 선택](https://github.com/khm1754/java_project/assets/94165276/ab0eee12-5957-4372-9fe9-94438a72b5ce)
+![버섯](https://github.com/khm1754/java_project/assets/94165276/38930ccd-e97c-4691-9f11-245bb2319c97)
+![테트리스](https://github.com/khm1754/java_project/assets/94165276/c4796307-26a7-4b86-b5b3-867ca501cddf)
+![숫자게임](https://github.com/khm1754/java_project/assets/94165276/90a26d8f-95e0-4a4c-be16-6b7fc7586230)
+![숫자 완료](https://github.com/khm1754/java_project/assets/94165276/964858b5-072c-4f27-b18a-0d5f4fa652fd)
+![벽돌깨기](https://github.com/khm1754/java_project/assets/94165276/df9a1ce2-fa68-4255-b50a-b31e2d6ab170)
+![벽돌 끝](https://github.com/khm1754/java_project/assets/94165276/8247a882-b8a2-4b39-a540-aac684c6ffe5)
+![뱀](https://github.com/khm1754/java_project/assets/94165276/ea2442fd-e4ab-4dde-bcad-8a1b0c5d7d92)
+![뱀 긑](https://github.com/khm1754/java_project/assets/94165276/09555154-0354-4900-a625-9e025f8e0fc0)
